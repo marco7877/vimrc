@@ -5,3 +5,5 @@
 # Whitelist the file you're interested in. 
 !.vimrc
 !.gitignore
+!init.sh
+!README.md
